@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://knight-legent.github.io</id>
     <title>LegentWu&apos;s Space</title>
-    <updated>2020-04-25T14:18:52.557Z</updated>
+    <updated>2020-04-25T14:53:50.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://knight-legent.github.io"/>
     <link rel="self" href="https://knight-legent.github.io/atom.xml"/>
@@ -11,35 +11,32 @@
     <icon>https://knight-legent.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, LegentWu&apos;s Space</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://knight-legent.github.io/post/hello-gridea/</id>
-        <link href="https://knight-legent.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[森林消防避火背包设计]]></title>
+        <id>https://knight-legent.github.io/post/sen-lin-xiao-fang-bi-huo-bei-bao-she-ji/</id>
+        <link href="https://knight-legent.github.io/post/sen-lin-xiao-fang-bi-huo-bei-bao-she-ji/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <summary type="html"><![CDATA[<p>✍️  <strong>设计说明</strong><br>
+市面上现有的避火帐篷大多功能单一，这款设计在此基础上加入电动支架和液氮冷却与氧气供应装置，便于消防员在面对极端情况下进行自救，从而提高在森林火灾中现场的生存率。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <content type="html"><![CDATA[<p>✍️  <strong>设计说明</strong><br>
+市面上现有的避火帐篷大多功能单一，这款设计在此基础上加入电动支架和液氮冷却与氧气供应装置，便于消防员在面对极端情况下进行自救，从而提高在森林火灾中现场的生存率。</p>
 <!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
+<figure data-type="image" tabindex="1"><img src="https://knight-legent.github.io/post-images/1587825749983.jpg" alt="" loading="lazy"></figure>
 <h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+<!-- more -->
+<p>侧视图<br>
+<img src="https://knight-legent.github.io/post-images/1587825823840.png" alt="" loading="lazy"></p>
+<!-- more -->
+<p>正视图<br>
+<img src="https://knight-legent.github.io/post-images/1587825829474.png" alt="" loading="lazy"></p>
+<!-- more -->
+<p>正面特写<br>
+<img src="https://knight-legent.github.io/post-images/1587825836323.png" alt="" loading="lazy"></p>
+<!-- more -->
+<p>爆炸图<br>
+<img src="https://knight-legent.github.io/post-images/1587825844053.png" alt="" loading="lazy"></p>
+<!-- more -->
 ]]></content>
     </entry>
 </feed>
